@@ -29,7 +29,10 @@ Repository for solved problems from https://www.codewars.com/
         </tr>
         <tr>
             <td>Overall</td>
-            <td>7 kyu / 5.4% <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_07.png"></td>
+            <td>
+                7 kyu (5.40%)
+                <br>
+                <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_07.png"></td>
         </tr>
     </tbody>
 </table>
