@@ -15,3 +15,4 @@ Repository for solved problems from https://www.codewars.com/
 | 009 | [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/009_function-2_squaring-an-argument.js) | 8 kyu |
 | 010 | [Pythagorean Triple](https://www.codewars.com/kata/5951d30ce99cf2467e000013) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/010_pythagorean-triple.js) | 8 kyu |
 | 011 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/011_grasshopper.js) | 8 kyu |
+| 012 | [Sum of angles](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/012_sum-of-angles.py) | 7 kyu |
