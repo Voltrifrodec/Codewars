@@ -2,6 +2,42 @@
 Repository for solved problems from https://www.codewars.com/
 
 
+<!-- I'm really sorry for you seeing this... -->
+<table style="margin: 5vh auto !important; display:block; width: 30%; padding-left: 3vh">
+    <!-- <caption>
+        <img
+            src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fxod8rxnnNjUFvjtaBqoTrkyUGpt2%2Favatar_xod8rxnnNjUFvjtaBqoTrkyUGpt2.png?alt=media"
+            alt="CSSBattle Profile Picture"
+            style="border-radius: 50%;
+                   margin: 1vh 0;
+                   display: block;"
+        >
+        <span style="font-weight: bold;
+                     font-size: larger;
+                     margin: .5vh 0;
+                     display: block">
+            Voltrifrodec
+        </span>
+    </caption> -->
+    <thead>
+        <th colspan="2" style="text-align:center">Current Stats</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Completed kata</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Overall</td>
+            <td>7 kyu / 5.4% <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_07.png"></td>
+        </tr>
+    </tbody>
+</table>
+
+Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.codewars.com/users/Voltrifrodec)
+
+---
+
 | No. | Name | JS | Kyu |
 |-----|------|----|------|
 | 001 | [Function 1 - Hello World!](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.js) | 8 kyu |
