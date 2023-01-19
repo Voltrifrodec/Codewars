@@ -56,4 +56,5 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 011 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/011_grasshopper.js) | 8 kyu |
 | 012 | [Sum of angles](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/012_sum-of-angles.js) | 7 kyu |
 | 013 | [Digit*Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/013_digit-square-digit.js) | 7 kyu |
-| 014 | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/014_rgb-to-hex-conversion.js) | 5 kyu |
+| 014 | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/014_rgb-to-hex-conversion.js) | 5 kyu |
+| 015 | [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/015_pyramid-array.js) | 6 kyu |
