@@ -25,12 +25,12 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>22</td>
+            <td>19</td>
         </tr>
         <tr>
             <td>Overall</td>
             <td>
-                7 kyu (5.40%)
+                7 kyu (82.10%)
                 <br>
                 <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_07.png"></td>
         </tr>
@@ -58,3 +58,7 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 013 | [Digit*Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/013_digit-square-digit.js) | 7 kyu |
 | 014 | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/014_rgb-to-hex-conversion.js) | 5 kyu |
 | 015 | [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/015_pyramid-array.js) | 6 kyu |
+| 016 | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/016_sum-arrays.js) | 8 kyu |
+| 017 | [Sort array by String length](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/017_sort-array-by-string-length.js) | 7 kyu |
+| 018 | [Row Weights](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/018_row-weights.js) | 7 kyu |
+| 019 | [Number of People on the Bus](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/019_number-of-people-in-bus.js) | 7 kyu |
