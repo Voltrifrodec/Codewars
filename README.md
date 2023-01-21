@@ -25,12 +25,12 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>25</td>
+            <td>26</td>
         </tr>
         <tr>
             <td>Overall</td>
             <td>
-                6 kyu (00.00%)
+                6 kyu (11.10%)
                 <br>
                 <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
         </tr>
@@ -74,7 +74,6 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 
 
 <!-- Special design for IDE I use -->
-
 <style>
     * {
         color: #fff !important;
