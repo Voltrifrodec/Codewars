@@ -25,14 +25,14 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>19</td>
+            <td>21</td>
         </tr>
         <tr>
             <td>Overall</td>
             <td>
-                7 kyu (82.10%)
+                6 kyu (00.00%)
                 <br>
-                <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_07.png"></td>
+                <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
         </tr>
     </tbody>
 </table>
@@ -41,6 +41,8 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 
 ---
 
+
+## Completed katas
 | No. | Name | JS | Kyu |
 |-----|------|----|------|
 | 001 | [Function 1 - Hello World!](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.js) | 8 kyu |
@@ -62,3 +64,28 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 017 | [Sort array by String length](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/017_sort-array-by-string-length.js) | 7 kyu |
 | 018 | [Row Weights](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/018_row-weights.js) | 7 kyu |
 | 019 | [Number of People on the Bus](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/019_number-of-people-in-bus.js) | 7 kyu |
+| 020 | [The 'if' function](https://www.codewars.com/kata/54147087d5c2ebe4f1000805/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/020_the-if-function.js) | 8 kyu |
+| 021 | [N-th Fibonacci](https://www.codewars.com/kata/522551eee9abb932420004a0/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/021_nth-fibonacci.js) | 6 kyu |
+| 022 | [Training JS #14: Methods of Number object -- toString() and toLocaleString()](https://www.codewars.com/kata/57238ceaef9008adc7000603/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/022_training-js_methods-of-number-object-tostring-tolocaleString.js) | 8 kyu |
+| 023 | [Training JS #7: if..else and ternary operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/023_training-js_ternary-operators.js) | 7 kyu |
+| 024 | [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/024_complete-fibonacci-series.js) | 6 kyu |
+| 025 | [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/025_opposites-attract.js) | 8 kyu |
+
+
+<!-- Special design for IDE I use -->
+<!--
+<style>
+    * {
+        color: #fff !important;
+    }
+    a {
+        color: #ad0 !important;
+    }
+    body {
+        background: #000 !important;
+    }
+    table td:nth-of-type(4) {
+        background: #222 !important;
+    }
+</style>
+-->
