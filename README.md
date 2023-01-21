@@ -25,7 +25,7 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>21</td>
+            <td>25</td>
         </tr>
         <tr>
             <td>Overall</td>
@@ -70,10 +70,11 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 023 | [Training JS #7: if..else and ternary operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/023_training-js_ternary-operators.js) | 7 kyu |
 | 024 | [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/024_complete-fibonacci-series.js) | 6 kyu |
 | 025 | [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/025_opposites-attract.js) | 8 kyu |
+| 026 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/026_highest-and-lowest.js) | 7 kyu |
 
 
 <!-- Special design for IDE I use -->
-<!--
+
 <style>
     * {
         color: #fff !important;
@@ -88,4 +89,3 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
         background: #222 !important;
     }
 </style>
--->
