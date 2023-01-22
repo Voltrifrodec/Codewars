@@ -71,6 +71,8 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 024 | [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/024_complete-fibonacci-series.js) | 6 kyu |
 | 025 | [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/025_opposites-attract.js) | 8 kyu |
 | 026 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/026_highest-and-lowest.js) | 7 kyu |
+| 027 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/027_digital-root.js) | 6 kyu |
+| 028 | [Happy Numbers](https://www.codewars.com/kata/5464cbfb1e0c08e9b3000b3e/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/028_happy-numbers.js) | 6 kyu |
 
 
 <!-- Special design for IDE I use -->
