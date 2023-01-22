@@ -74,6 +74,7 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 027 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/027_digital-root.js) | 6 kyu |
 | 028 | [Happy Numbers](https://www.codewars.com/kata/5464cbfb1e0c08e9b3000b3e/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/028_happy-numbers.js) | 6 kyu |
 | 029 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/029_ones-and-zeros.js) | 7 kyu |
+| 030 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/030_who-likes-it.js) | 6 kyu |
 
 
 <!-- Special design for IDE I use -->
