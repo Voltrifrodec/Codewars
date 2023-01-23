@@ -25,12 +25,12 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>26</td>
+            <td>32</td>
         </tr>
         <tr>
             <td>Overall</td>
             <td>
-                6 kyu (11.10%)
+                6 kyu (32.00%)
                 <br>
                 <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
         </tr>
@@ -75,6 +75,8 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 028 | [Happy Numbers](https://www.codewars.com/kata/5464cbfb1e0c08e9b3000b3e/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/028_happy-numbers.js) | 6 kyu |
 | 029 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/029_ones-and-zeros.js) | 7 kyu |
 | 030 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/030_who-likes-it.js) | 6 kyu |
+| 031 | [Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/031_factorial.js) | 7 kyu |
+| 031 | [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/032_you-cant-code-under-pressure.js) | 8 kyu |
 
 
 <!-- Special design for IDE I use -->
