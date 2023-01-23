@@ -76,7 +76,9 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 029 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/029_ones-and-zeros.js) | 7 kyu |
 | 030 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/030_who-likes-it.js) | 6 kyu |
 | 031 | [Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/031_factorial.js) | 7 kyu |
-| 031 | [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/032_you-cant-code-under-pressure.js) | 8 kyu |
+| 032 | [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/032_you-cant-code-under-pressure.js) | 8 kyu |
+| 033 | [Factorial Factory](https://www.codewars.com/kata/528e95af53dcdb40b5000171/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/033_factorial-factory.js) | 7 kyu |
+| 034 | [Padovan numbers](https://www.codewars.com/kata/528e95af53dcdb40b5000171/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/034_padovan-numbers.js) | 6 kyu |
 
 
 <!-- Special design for IDE I use -->
