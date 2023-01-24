@@ -80,6 +80,8 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 033 | [Factorial Factory](https://www.codewars.com/kata/528e95af53dcdb40b5000171/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/033_factorial-factory.js) | 7 kyu |
 | 034 | [Padovan numbers](https://www.codewars.com/kata/5803ee0ed5438edcc9000087/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/034_padovan-numbers.js) | 6 kyu |
 | 035 | [Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/035_matrix-transpose.js) | 6 kyu |
+| 036 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/036_split-strings.js) | 6 kyu |
+| 037 | [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/037_squares-sequence.js) | 7 kyu |
 
 
 <!-- Special design for IDE I use -->
