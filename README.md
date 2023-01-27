@@ -18,8 +18,12 @@ Repository for solved problems from https://www.codewars.com/
 
 [<img src="https://www.codewars.com/users/Voltrifrodec/badges/large" alt="Codewars Profile Badge" title="Codewars Profile Badge">](https://www.codewars.com/users/Voltrifrodec)
 
-Languages In Practice:
-<img src="https://github.com/Voltrifrodec/Codewars/blob/master/language-tracking/sql.svg" alt="SQL Practice Rank" title="SQL Practice rank">
+Languages In Practice: <br>
+<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/26f7ad6d3ef5d23709be803e81b44264657319b7/resources/javascript.svg" alt="JavaScript Practice Rank" title="JavaScript Practice rank">
+<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/26f7ad6d3ef5d23709be803e81b44264657319b7/resources/c.svg" alt="C Practice Rank" title="C Practice rank">
+<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/26f7ad6d3ef5d23709be803e81b44264657319b7/resources/cpp.svg" alt="C++ Practice Rank" title="C++ Practice rank">
+<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/26f7ad6d3ef5d23709be803e81b44264657319b7/resources/sql.svg" alt="SQL Practice Rank" title="SQL Practice rank">
+
 
 
 ---
