@@ -25,12 +25,12 @@ Repository for solved problems from https://www.codewars.com/
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>34</td>
+            <td>45</td>
         </tr>
         <tr>
             <td>Overall</td>
             <td>
-                6 kyu (39.20%)
+                6 kyu (90.80%)
                 <br>
                 <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
         </tr>
@@ -82,6 +82,14 @@ Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.co
 | 035 | [Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/035_matrix-transpose.js) | 6 kyu |
 | 036 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/036_split-strings.js) | 6 kyu |
 | 037 | [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/037_squares-sequence.js) | 7 kyu |
+| 038 | [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/6kyu/038_1rm-calculator.js) | 6 kyu |
+| 039 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/039_moving-zeros-to-the-end.js) | 5 kyu |
+| 040 | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/040_human-readable-time.js) | 5 kyu |
+| 041 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/041_even-or-odd.js) | 8 kyu |
+| 042 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/multiply.js) | 8 kyu |
+| 043 | [Sum of positive](https://www.codewars.com/kata/50654ddff44f800200000004/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/043_sum-of-positive.js) | 8 kyu |
+| 044 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/044_return-negative.js) | 8 kyu |
+| 045 | [Reversed String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/045_reversed-string.js) | 8 kyu |
 
 
 <!-- Special design for IDE I use -->
