@@ -27,18 +27,18 @@ Repository for solved problems from https://www.codewars.com/
             <td>Completed kata</td>
             <td>45</td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>Overall</td>
             <td>
                 6 kyu (90.80%)
                 <br>
                 <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
-        </tr>
+        </tr>-->
     </tbody>
 </table>
 
-Link to my profile: [https://www.codewars.com/users/Voltrifrodec](https://www.codewars.com/users/Voltrifrodec)
 
+[<img src="https://www.codewars.com/users/Voltrifrodec/badges/large" alt="Codewars Profile Badge" title="Codewars Profile Badge">](https://www.codewars.com/users/Voltrifrodec)
 ---
 
 
