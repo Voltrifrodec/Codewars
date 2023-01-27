@@ -17,12 +17,17 @@ Repository for solved problems from https://www.codewars.com/
 
 
 [<img src="https://www.codewars.com/users/Voltrifrodec/badges/large" alt="Codewars Profile Badge" title="Codewars Profile Badge">](https://www.codewars.com/users/Voltrifrodec)
+
+Languages In Practice:
+<img src="https://github.com/Voltrifrodec/Codewars/blob/master/language-tracking/sql.svg" alt="SQL Practice Rank" title="SQL Practice rank">
+
+
 ---
 
 
 ## Completed katas
-| No. | Name | JS | Kyu |
-|-----|------|----|------|
+| No. | Name | JS | C | C++ | SQL | Kyu |
+|-----|------|----|---|-----|-----|----|
 | 001 | [Function 1 - Hello World!](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.js) | 8 kyu |
 | 002 | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.js) | 8 kyu |
 | 003 | [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/003_vowel-remover.js) | 8 kyu |
