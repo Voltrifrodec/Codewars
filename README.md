@@ -3,39 +3,17 @@ Repository for solved problems from https://www.codewars.com/
 
 
 <!-- I'm really sorry for you seeing this... -->
-<table style="margin: 5vh auto !important; display:block; width: 30%; padding-left: 3vh">
-    <!-- <caption>
-        <img
-            src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fxod8rxnnNjUFvjtaBqoTrkyUGpt2%2Favatar_xod8rxnnNjUFvjtaBqoTrkyUGpt2.png?alt=media"
-            alt="CSSBattle Profile Picture"
-            style="border-radius: 50%;
-                   margin: 1vh 0;
-                   display: block;"
-        >
-        <span style="font-weight: bold;
-                     font-size: larger;
-                     margin: .5vh 0;
-                     display: block">
-            Voltrifrodec
-        </span>
-    </caption> -->
+<!-- <table style="margin: 5vh auto !important; display:block; width: 30%; padding-left: 3vh">
     <thead>
         <th colspan="2" style="text-align:center">Current Stats</th>
     </thead>
     <tbody>
         <tr>
             <td>Completed kata</td>
-            <td>45</td>
+            <td>46</td>
         </tr>
-        <!--<tr>
-            <td>Overall</td>
-            <td>
-                6 kyu (90.80%)
-                <br>
-                <img src="https://github.com/Voltrifrodec/Codewars/blob/master/resources/kyu_rank-icon_06.png"></td>
-        </tr>-->
     </tbody>
-</table>
+</table> -->
 
 
 [<img src="https://www.codewars.com/users/Voltrifrodec/badges/large" alt="Codewars Profile Badge" title="Codewars Profile Badge">](https://www.codewars.com/users/Voltrifrodec)
@@ -90,7 +68,7 @@ Repository for solved problems from https://www.codewars.com/
 | 043 | [Sum of positive](https://www.codewars.com/kata/50654ddff44f800200000004/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/043_sum-of-positive.js) | 8 kyu |
 | 044 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/044_return-negative.js) | 8 kyu |
 | 045 | [Reversed String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/045_reversed-string.js) | 8 kyu |
-
+| 046 | [Convert a Hex String to RGB](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/046_hex-to-rgb-conversion.js) | 5 kyu |
 
 <!-- Special design for IDE I use -->
 <style>
