@@ -28,12 +28,11 @@ Repository for solved problems from https://www.codewars.com/
 
 ---
 
-
 ## Completed katas
 | No. | Name | JS | C | C++ | SQL | Python | Java | Rust | Ruby | PHP | TypeScript | Kyu |  
 |-----|------|----|---|-----|-----|--------|------|------|------|-----|------------|-----|
 | 001 | [Function 1 - Hello World!](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.js) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.c) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.cpp) | ❌ | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.py)  | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.java)  | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.rs)  | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.rb)  | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.php)  | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/001_function-1_hello-world.ts)  | 8kyu |
-| 002 | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
+| 002 | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.js) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.c) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.cpp) | ❌ | ❌ | ❌ | ❌ | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/002_beginner_reduce-but-grow.rb) | ❌ | ❌ | 8kyu |
 | 003 | [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/003_vowel-remover.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 004 | [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/004_collatz-conjecture.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 005 | [Localize The Barycenter of a Triangle](https://www.codewars.com/kata/5601c5f6ba804403c7000004) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/005_triangle-barycenter.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
