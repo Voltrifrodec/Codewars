@@ -19,12 +19,12 @@ Repository for solved problems from https://www.codewars.com/
 [<img src="https://www.codewars.com/users/Voltrifrodec/badges/large" alt="Codewars Profile Badge" title="Codewars Profile Badge">](https://www.codewars.com/users/Voltrifrodec)
 
 
-| Languages In Practice:|
+<!-- | Languages In Practice:|
 |-----------------------|
 |<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/5c4abb03da4e32c04a818cc477a657e1d29e4b75/resources/javascript.svg" alt="JavaScript Practice Rank" title="JavaScript Practice rank">|
 |<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/5c4abb03da4e32c04a818cc477a657e1d29e4b75/resources/c.svg" alt="C Practice Rank" title="C Practice rank">|
 |<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/5c4abb03da4e32c04a818cc477a657e1d29e4b75/resources/cpp.svg" alt="C++ Practice Rank" title="C++ Practice rank">|
-|<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/5c4abb03da4e32c04a818cc477a657e1d29e4b75/resources/sql.svg" alt="SQL Practice Rank" title="SQL Practice rank">|
+|<img src="https://raw.githubusercontent.com/Voltrifrodec/Codewars/5c4abb03da4e32c04a818cc477a657e1d29e4b75/resources/sql.svg" alt="SQL Practice Rank" title="SQL Practice rank">| -->
 
 ---
 
@@ -78,6 +78,7 @@ Repository for solved problems from https://www.codewars.com/
 | 045 | [Reversed String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/045_reversed-string.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 046 | [Convert a Hex String to RGB](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/046_hex-to-rgb-conversion.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 5kyu |
 | 047 | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/047_array-plus-array.js) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/047_array-plus-array.cpp)  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
+| 048 | [Get the mean of an array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/048_get-the-mean-of-an-array.js) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/048_get-the-mean-of-an-array.c) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/048_get-the-mean-of-an-array.cpp) | ❌ | ❌ | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/048_get-the-mean-of-an-array.java) | ❌ | ❌ | ❌ | ❌ | 8kyu |
 
 
 
@@ -93,11 +94,11 @@ Repository for solved problems from https://www.codewars.com/
     body {
         background: #000 !important;
     }
-    table:nth-of-type(1) * {
+    /* table:nth-of-type(1) * {
         border: none !important;
         text-align: left;
         min-height: 25px !important;
-    }
+    } */
     table td:nth-of-type(13) {
         background: #222 !important;
     }
