@@ -92,6 +92,7 @@ Repository for solved problems from https://www.codewars.com/
 | 059 | [Area or Perimeter](https://www.codewars.com/kata/58261acb22be6e2ed800003a/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/059_area-or-perimeter.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 060 | [Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/060_beginner-series-04_cockroach.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 061 | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/061_reverse-words.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
+| 062 | [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/062_bit-calculator.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 5kyu |
 
 
 
