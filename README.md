@@ -93,6 +93,7 @@ Repository for solved problems from https://www.codewars.com/
 | 060 | [Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/060_beginner-series-04_cockroach.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
 | 061 | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/061_reverse-words.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
 | 062 | [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/062_bit-calculator.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 5kyu |
+| 063 | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/063_credit-card-mask.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
 
 
 
