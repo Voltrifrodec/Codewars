@@ -94,6 +94,8 @@ Repository for solved problems from https://www.codewars.com/
 | 061 | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/061_reverse-words.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
 | 062 | [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/5kyu/062_bit-calculator.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 5kyu |
 | 063 | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/063_credit-card-mask.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
+| 064 | [Beginner Series #2: Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/8kyu/064_beginner-series-04_clock.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 8kyu |
+| 065 | [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c/) | [✔️](https://github.com/Voltrifrodec/Codewars/blob/master/7kyu/065_maximum-multiple.js) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 7kyu |
 
 
 
